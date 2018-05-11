@@ -24,7 +24,7 @@
 ## 关于C++代码的运行
 `./LFM-CPP`文件中已包含了makefile文件，故而可以直接make，生成最后可执行文件`LFM`。
 执行时，按照如下格式：
->`$ LFM -n iteration_times -a alpha > redirection_file`
+>`$ ./LFM -n iteration_times -a alpha > redirection_file`
 
 ## 关于报告
 此篇pdf形式的报告，直接由jupyter notebook导出，故而其中包含大量代码与部分运行结果。关于实验结果和实验心得的记录，仅在文档的最后一两页。为节省老师的阅读时间，前面的部分可以直接忽略。关于实践过程，已在上面大致描述。非常抱歉迟交了此次作业，请老师海涵。
